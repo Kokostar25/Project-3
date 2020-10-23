@@ -1,0 +1,7 @@
+.terraform
+.terragrunt
+*.tfstate
+*.tfstate.backup
+.plugins
+.json
+.terraform.io
